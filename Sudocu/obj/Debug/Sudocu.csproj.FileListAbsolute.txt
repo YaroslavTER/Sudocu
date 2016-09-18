@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\bin\Debug\Sudocu.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\bin\Debug\Sudocu.exe
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\bin\Debug\Sudocu.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\obj\Debug\Sudocu.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\obj\Debug\Sudocu.sudocu.resources
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\obj\Debug\Sudocu.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\obj\Debug\Sudocu.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\obj\Debug\Sudocu.exe
+c:\users\pc\documents\visual studio 2013\Projects\Sudocu\Sudocu\obj\Debug\Sudocu.pdb
